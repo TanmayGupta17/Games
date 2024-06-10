@@ -4,35 +4,36 @@
 This Python Slot Machine game allows you to try your luck by betting on multiple lines and spinning the reels. You can enjoy the thrill of a slot machine right from your console with this simple yet engaging game.
 
 ### Features
-User Input: 
+User Input:<br>
 Players can deposit money, choose the number of lines to bet on, and decide their bet amount per line.
-Random Symbol Generation: 
+Random Symbol Generation:<br>
 The slot machine generates random symbols for each spin.
-Winning Logic:
+Winning Logic:<br>
 The game checks for winning lines and calculates the winnings based on the bet and the symbols matched.
-Score Tracking:
+Score Tracking:<br>
 Players can track their balance, which is updated based on winnings or losses.
-Simple Console Interface:
+Simple Console Interface:<br>
 The game provides a straightforward and user-friendly console interface.
 
 ### How to Play
-Start the Game: Run the Python script.
-Deposit Money: Enter the amount you want to deposit to start playing.
-Place Your Bet: Choose the number of lines to bet on and the bet amount per line.
-Spin the Reels: The slot machine will spin and display the outcome.
-Check Your Winnings: The game calculates and displays your winnings for the current spin.
-Continue or Quit: You can choose to play more rounds or quit the game.
+Start the Game:<br> Run the Python script.
+Deposit Money:<br> Enter the amount you want to deposit to start playing.
+Place Your Bet:<br> Choose the number of lines to bet on and the bet amount per line.
+Spin the Reels: <br>The slot machine will spin and display the outcome.
+Check Your Winnings:<br> The game calculates and displays your winnings for the current spin.
+Continue or Quit:<br> You can choose to play more rounds or quit the game.
 
 ### Game Rules
-Symbols: The game uses symbols "A", "B", "C", and "D".
-Lines: You can bet on up to 3 lines.
-Winning Combinations: A line wins if all symbols on that line are the same.
-Payouts:
-"A" pays 8 times the bet amount.
-"B" pays 6 times the bet amount.
-"C" pays 4 times the bet amount.
-"D" pays 2 times the bet amount.
-<br>
+Symbols: The game uses symbols "A", "B", "C", and "D".<br>
+Lines: You can bet on up to 3 lines.<br>
+Winning Combinations: A line wins if all symbols on that line are the same.<br>
+Payouts:<br>
+"A" pays 8 times the bet amount.<br>
+"B" pays 6 times the bet amount.<br>
+"C" pays 4 times the bet amount.<br>
+"D" pays 2 times the bet amount.<br>
+
+
 ## RockPaperScissors
 
 Rock Paper Scissors is a timeless game enjoyed by people of all ages. In this Java implementation, you'll face off against the computer in a series of matches, trying to outsmart it with your strategic choices of rock, paper, or scissors.
