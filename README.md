@@ -4,24 +4,24 @@
 This Python Slot Machine game allows you to try your luck by betting on multiple lines and spinning the reels. You can enjoy the thrill of a slot machine right from your console with this simple yet engaging game.
 
 ### Features
-User Input:<br>
+->User Input:<br>
 Players can deposit money, choose the number of lines to bet on, and decide their bet amount per line.<br>
-Random Symbol Generation:<br>
+->Random Symbol Generation:<br>
 The slot machine generates random symbols for each spin.<br>
-Winning Logic:<br>
+->Winning Logic:<br>
 The game checks for winning lines and calculates the winnings based on the bet and the symbols matched.<br>
-Score Tracking:<br>
+->Score Tracking:<br>
 Players can track their balance, which is updated based on winnings or losses.<br>
-Simple Console Interface:<br>
+->Simple Console Interface:<br>
 The game provides a straightforward and user-friendly console interface.<br>
 
 ### How to Play
-Start the Game:<br> Run the Python script.
-Deposit Money:<br> Enter the amount you want to deposit to start playing.
-Place Your Bet:<br> Choose the number of lines to bet on and the bet amount per line.
-Spin the Reels: <br>The slot machine will spin and display the outcome.
-Check Your Winnings:<br> The game calculates and displays your winnings for the current spin.
-Continue or Quit:<br> You can choose to play more rounds or quit the game.
+Start the Game: Run the Python script.<br>
+Deposit Money: Enter the amount you want to deposit to start playing.<br>
+Place Your Bet: Choose the number of lines to bet on and the bet amount per line.<br>
+Spin the Reels: The slot machine will spin and display the outcome.<br>
+Check Your Winnings: The game calculates and displays your winnings for the current spin.<br>
+Continue or Quit: You can choose to play more rounds or quit the game.<br>
 
 ### Game Rules
 Symbols: The game uses symbols "A", "B", "C", and "D".<br>
