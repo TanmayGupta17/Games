@@ -6,13 +6,13 @@ This Python Slot Machine game allows you to try your luck by betting on multiple
 ### Features
 _User Input_:
 Players can deposit money, choose the number of lines to bet on, and decide their bet amount per line.<br>
-__Random Symbol Generation__:
+_Random Symbol Generation_:
 The slot machine generates random symbols for each spin.<br>
-__Winning Logic__:
+_Winning Logic_:
 The game checks for winning lines and calculates the winnings based on the bet and the symbols matched.<br>
-__Score Tracking__:
+_Score Tracking_:
 Players can track their balance, which is updated based on winnings or losses.<br>
-__Simple Console Interface__:
+_Simple Console Interface_:
 The game provides a straightforward and user-friendly console interface.<br>
 
 ### How to Play
@@ -38,12 +38,12 @@ Payouts:<br>
 This Python implementation of Blackjack allows you to play against the computer in a thrilling game of strategy and luck. The game adheres to the traditional rules of Blackjack, offering an engaging console-based gaming experience.
 
 ### Features
-User Input: Players can choose to "hit" or "stand" during their turn.<br>
-Card Deck: The game uses a standard deck of 52 cards, with values assigned to each card.<br>
-Random Deal: Cards are dealt randomly to both the player and the dealer.<br>
-Winning Logic: The game determines the winner based on traditional Blackjack rules.<br>
-Balance Tracking: The game tracks the player's balance, allowing them to place bets and win or lose money based on their performance.<br>
-Simple Console Interface: The game provides a straightforward, text-based interface for easy interaction.<br>
+_User Input_: Players can choose to "hit" or "stand" during their turn.<br>
+_Card Deck_: The game uses a standard deck of 52 cards, with values assigned to each card.<br>
+_Random Deal_: Cards are dealt randomly to both the player and the dealer.<br>
+_Winning Logic_: The game determines the winner based on traditional Blackjack rules.<br>
+_Balance Tracking_: The game tracks the player's balance, allowing them to place bets and win or lose money based on their performance.<br>
+_Simple Console Interface_: The game provides a straightforward, text-based interface for easy interaction.<br>
 
 ### How to Play
 Start the Game: Run the Python script.<br>
