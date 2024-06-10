@@ -5,15 +5,15 @@ This Python Slot Machine game allows you to try your luck by betting on multiple
 
 ### Features
 User Input:<br>
-Players can deposit money, choose the number of lines to bet on, and decide their bet amount per line.
+Players can deposit money, choose the number of lines to bet on, and decide their bet amount per line.<br>
 Random Symbol Generation:<br>
-The slot machine generates random symbols for each spin.
+The slot machine generates random symbols for each spin.<br>
 Winning Logic:<br>
-The game checks for winning lines and calculates the winnings based on the bet and the symbols matched.
+The game checks for winning lines and calculates the winnings based on the bet and the symbols matched.<br>
 Score Tracking:<br>
-Players can track their balance, which is updated based on winnings or losses.
+Players can track their balance, which is updated based on winnings or losses.<br>
 Simple Console Interface:<br>
-The game provides a straightforward and user-friendly console interface.
+The game provides a straightforward and user-friendly console interface.<br>
 
 ### How to Play
 Start the Game:<br> Run the Python script.
