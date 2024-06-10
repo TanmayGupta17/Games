@@ -4,15 +4,15 @@
 This Python Slot Machine game allows you to try your luck by betting on multiple lines and spinning the reels. You can enjoy the thrill of a slot machine right from your console with this simple yet engaging game.
 
 ### Features
--> __User Input__:
+__User Input__:
 Players can deposit money, choose the number of lines to bet on, and decide their bet amount per line.<br>
-->Random Symbol Generation:
+__Random Symbol Generation__:
 The slot machine generates random symbols for each spin.<br>
-->Winning Logic:
+__Winning Logic__:
 The game checks for winning lines and calculates the winnings based on the bet and the symbols matched.<br>
-->Score Tracking:
+__Score Tracking__:
 Players can track their balance, which is updated based on winnings or losses.<br>
-->Simple Console Interface:
+__Simple Console Interface__:
 The game provides a straightforward and user-friendly console interface.<br>
 
 ### How to Play
