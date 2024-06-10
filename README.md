@@ -4,7 +4,7 @@
 This Python Slot Machine game allows you to try your luck by betting on multiple lines and spinning the reels. You can enjoy the thrill of a slot machine right from your console with this simple yet engaging game.
 
 ### Features
--> **User Input:
+-> __User Input__:
 Players can deposit money, choose the number of lines to bet on, and decide their bet amount per line.<br>
 ->Random Symbol Generation:
 The slot machine generates random symbols for each spin.<br>
